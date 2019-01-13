@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689628907226",
+    "firebase_url": "https://parliamentary-elections.firebaseio.com",
+    "project_id": "parliamentary-elections",
+    "storage_bucket": "parliamentary-elections.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689628907226:android:d4637b26ad91ff18",
+        "android_client_info": {
+          "package_name": "com.example.ayan.parliamentaryelections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689628907226-hsu5jjkpa5j2m5cudigk2g79m98d7nc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayan.parliamentaryelections",
+            "certificate_hash": "cd1268d119705ea696531d69f0452427c4c161f8"
+          }
+        },
+        {
+          "client_id": "689628907226-131htfrpkast5p89mn20m1gsv8qvbb09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ofs1WKqf6NOjlFDZ1nJGeYbntR1Gn4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689628907226-131htfrpkast5p89mn20m1gsv8qvbb09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
